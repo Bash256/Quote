@@ -1,0 +1,36 @@
+.col {
+    background-color: rgba(0, 217, 255, 0.8);
+  }
+  
+  
+  .title {
+    margin-top: 100px;
+    color: white;
+    font-size:50px;
+  }
+  
+  .quote {
+    background-color: rgb(255, 73, 73);
+    margin: 0 auto;
+    margin-top: 100px;
+    padding: 40px;
+    border-radius: 50px;
+  }
+  
+  a {
+    color: white;
+  }
+  
+  footer {
+  font-size:30px;
+  
+  }
+  
+  .link {
+  color:beige;
+  font-size: 15px;
+  }
+  
+  .LQ{
+  color:beige;
+  }
